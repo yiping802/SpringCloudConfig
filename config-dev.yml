@@ -1,1 +1,2 @@
-hello
+config:
+  info: "main springcloudconfig/congfig-dev.yml version=1"
